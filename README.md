@@ -15,3 +15,6 @@
 
 ## Evidencia
 Este repositorio incluye el historial de commits y un Pull Request fusionado como evidencia de la práctica.
+
+## Autor
+Práctica realizada por ally y zack
